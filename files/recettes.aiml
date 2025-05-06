@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+  <pattern>* OEUFS *</pattern>
+  <template>
+    Ah, des œufs ! Que diriez-vous d'une délicieuse omelette ? C'est simple et rapide. Vous pouvez y ajouter du fromage, des herbes, des légumes... qu'en pensez-vous ?
+  </template>
+</category>
+
+<category>
+  <pattern>OEUFS *</pattern>
+  <template>
+    Ah, des œufs ! Que diriez-vous d'une délicieuse omelette ? C'est simple et rapide. Vous pouvez y ajouter du fromage, des herbes, des légumes... qu'en pensez-vous ?
+  </template>
+</category>
+
+<category>
+  <pattern>* OEUFS</pattern>
+  <template>
+    Ah, des œufs ! Que diriez-vous d'une délicieuse omelette ? C'est simple et rapide. Vous pouvez y ajouter du fromage, des herbes, des légumes... qu'en pensez-vous ?
+  </template>
+</category>
+<category>
+  <pattern>* OEUFS * TOMATES *</pattern>
+  <template>
+    Hmm, des œufs et des tomates ! Une bonne option serait des œufs brouillés aux tomates. C'est facile et savoureux.
+  </template>
+</category>
+<category>
+  <pattern>* TOMATES * OEUFS *</pattern>
+  <template>
+    Hmm, des tomates et des œufs ! Une bonne option serait des œufs brouillés aux tomates. C'est facile et savoureux.
+  </template>
+</category>
+<category>
+  <pattern>* POULET *</pattern>
+  <template>
+    Vous avez du poulet ? Parfait ! Que diriez-vous d'un poulet rôti au four avec des herbes de Provence ? C'est un classique toujours apprécié.
+  </template>
+</category>
+
+<category>
+  <pattern>* ESCALOPE DE POULET *</pattern>
+  <template>
+    Des escalopes de poulet ? Une option rapide et délicieuse est de les faire sauter à la poêle avec un peu de citron et de beurre.
+  </template>
+</category>
+<category>
+  <pattern>* PATES *</pattern>
+  <template>
+    Des pâtes ! Les possibilités sont infinies. Une sauce tomate basilic simple et efficace, ça vous tente ?
+  </template>
+</category>
+
+<category>
+  <pattern>* SPAGHETTI *</pattern>
+  <template>
+    Des spaghettis ! Classique. Pourquoi pas des spaghettis à la carbonara ?
+  </template>
+</category>
+<category>
+  <pattern>* POULET * LEGUMES *</pattern>
+  <template>
+    Du poulet et des légumes ! Un sauté de poulet aux légumes de saison serait excellent. Vous avez quels légumes sous la main ?
+  </template>
+</category>
+
+<category>
+  <pattern>* LEGUMES * POULET *</pattern>
+  <template>
+    Des légumes et du poulet ! Un curry de poulet aux légumes, ça vous dirait ? C'est parfumé et plein de saveurs.
+  </template>
+</category>
+<category>
+  <pattern>* TOMATES * BASILIC *</pattern>
+  <template>
+    Des tomates et du basilic, quelle belle association ! Une salade caprese simple et fraîche, c'est toujours une bonne idée.
+  </template>
+</category>
+
+<category>
+  <pattern>* BASILIC * TOMATES *</pattern>
+  <template>
+    Du basilic et des tomates ! Une bruschetta maison, c'est facile à faire et délicieux pour l'apéritif.
+  </template>
+</category>
+<category>
+  <pattern>* FARINE * BEURRE * SUCRE *</pattern>
+  <template>
+    Farine, beurre et sucre... ça sent bon le gâteau ! Un simple quatre-quarts serait parfait.
+  </template>
+</category>
+</aiml>
